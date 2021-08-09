@@ -1,4 +1,4 @@
-# pygame-
+# pygame-pgGoGo
 简易的pygame游戏开发框架，分享学习
 
 2021/1/26 1.9版本更新
